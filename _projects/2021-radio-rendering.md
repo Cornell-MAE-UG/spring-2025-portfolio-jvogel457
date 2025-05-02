@@ -1,25 +1,16 @@
 ---
 layout: project
-title: Radio CAD Rendering
+title: HydroClip CAD Rendering
 description: Advanced CAD Project
 technologies: [Autodesk Fusion]
-image: /assets/images/radio-machine-cad.jpg
+image: /assets/images/assets/images/Final_2025-May-02_03-29-22PM-000_CustomizedView1714922554_jpg.jpg
 ---
 
-For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
+For MAE 2250: Mechanical Design, we were asked to design a product to solve a particular problem. In order to combat dehydration, my group made HydroClip. HydroClip is an innovative water bottle holder that allows you to mount your water bottle to the front of your backpack strap instead of in the typical water bottle pocket. That way, the waterbottle is always in reach and there is no need to awkardly hunch over or take your backpack off in order to have a drink of water. It is perfect for anyone from hikers to college students -- anyone on the go. 
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+For this product to work, there were a couple of metrics we had to achieve. To start, our device had to be able to grip onto the user's backpack strap and stay firmy in place. We solved this challenge with our mounting mechanism which is a set of custom fabricated clips on the back of the procuct. 
 
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+The other main functionality we had to achieve is ease of use. The user needs to be able to take their water bottle out easily, while still keeping it stable while not in use. To solve this issue, we made a buckle-like mechanism that locks the water bottle into place. To retrieve the water bottle, the user simply pushes on the outer tabs and the water bottle springs into action. 
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+Lastly, we wanted this poduct to be accesible. To make HydroClip the perfect product for a wide variety of people, we sourced a water bottle holder that can accomodate water bottles ranging from 2 inches to 4 inches in diameter. The water bottle holder, originally designed for a bicycle, is rigid, yet flexible, which is perfect for our purposes.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
-I was inspired by this old radio when I made this rendering:
-
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
