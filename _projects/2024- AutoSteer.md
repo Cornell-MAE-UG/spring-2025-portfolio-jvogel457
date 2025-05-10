@@ -8,7 +8,8 @@ image: assets/images/AutoSteer.png
 
 In the spring of 2024, I was tasked with creating the autonomous steering system for my project team, Cornell Electric Vehicles. Over the next year and a half, I designed, manufactured, and began testing my system. The system consists of a motor, an electromagnetic clutch, a gearbox, and a modified shaft.
 
-![Profile Picture]({{ "assets/images/Gearbox.png" | relative_url }}){: class="profile-image"}
+![picture of gearbox]({{ "assets/images/Gearbox.png" | relative_url }})
+
 
 The motor creates the original rotary motion that will eventually turn the steering wheel.
 
