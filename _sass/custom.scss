@@ -17,6 +17,11 @@ $text-color: #333;
   $background-color: #f6f1e0;
   $text-color: #1e0101;
 }
+@else if $color_scheme == 'custom' {
+  $primary-color: #2f54e8;
+  $background-color: #9a94e1;
+  $text-color: #1e0101;
+}
 
 
 .navbar, h1, h2, h3, h4, h5, h6 {
