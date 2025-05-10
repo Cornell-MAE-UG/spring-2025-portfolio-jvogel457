@@ -6,7 +6,7 @@ technologies: [Autodesk Fusion]
 image: assets/images/Final_2025-May-02_03-29-22PM-000_CustomizedView1714922554_jpg.jpg
 ---
 
-![physical product]({{ "HydroClipPhysical.png" | relative_url }})
+![physical product]({{ "assets/images/HydroClipPhysical.png" | relative_url }})
 
 For MAE 2250: Mechanical Design, we were asked to design a product to solve a particular problem. In order to combat dehydration, my group made HydroClip. HydroClip is an innovative water bottle holder that allows you to mount your water bottle to the front of your backpack strap instead of in the typical water bottle pocket. That way, the waterbottle is always in reach, and there is no need to awkardly hunch over or take your backpack off in order to have a drink of water. It is perfect for anyone from hikers to college students -- anyone with a backpack and a busy lifestyle.
 
