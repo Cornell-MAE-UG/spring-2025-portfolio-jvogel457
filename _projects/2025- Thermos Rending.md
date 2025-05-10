@@ -3,7 +3,7 @@ layout: project
 title: Yeti Thermos Rending 
 description: Advanved CAD Project
 technologies: [Autodesk Fusion]
-image: /assets/images/yeti_rendering.png
+image: assets/images/yeti_rendering.png
 ---
 
 ![photo of yeti]({{ "assets/images/yeti_photo.png" | relative_url }})
