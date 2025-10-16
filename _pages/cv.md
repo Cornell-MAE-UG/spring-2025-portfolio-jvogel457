@@ -20,7 +20,7 @@ Aspiring engineering student with a strong foundation in mechanical design. Pass
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.97/4.0 | Graduation: May, 2027
+  GPA: 4.0/4.0 | Graduation: May, 2027
 
 - **[Schechter School of Long Island]**  
   *High Schoool Diploma*
@@ -58,6 +58,12 @@ Aspiring engineering student with a strong foundation in mechanical design. Pass
 - **Long Island Children's Museum - Visitor Services Associate**  
   June, 2023 - December, 2024
   - Sold tickets and memberships at the front desk
+
+- **Lutron Electronics - Manufacturing Engineering Intern**  
+  May, 2025 - August 2025
+  - Researched laser marking/etching for a variety of different products
+  - Created a cost analysis tool for manufacturing engineers to determine is a laser makes financial sense to buy for their assembly line
+  - Proposed solutions that reduced cost of that process by as much as 80%
 
 ---
 
