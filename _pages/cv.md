@@ -12,7 +12,7 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in mechanical design. Passionate about robotics and eager to apply my knowledge in real-world applications.
+Aspiring engineer with a strong foundation in mechanical design. Passionate about robotics and eager to apply my knowledge in real-world applications.
 
 ---
 
@@ -21,15 +21,15 @@ Aspiring engineering student with a strong foundation in mechanical design. Pass
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
   GPA: 4.0/4.0 | Graduation: Dec, 2026
 
-- **[Schechter School of Long Island]**  
+- **Schechter School of Long Island**  
   *High Schoool Diploma*
   Graduation: May, 2023
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, Autodesk Inventor, Arduino IDE
-- **Programming:** Java, MATLAB, Excel, ROS, Python
+- **Software:** Autodesk Fusion, Autodesk Inventor, Autodesk Vault, Arduino IDE, ANSYS Mechanical, 
+- **Programming:** Java, MATLAB, Simulink, Excel, ROS, Python
 - **Tools:** 3D Printing, Laser Cutting, Laser Etching/Marking, Manual Machining
 
 ---
