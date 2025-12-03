@@ -5,8 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
-
+[Download my CV]({{ "/assets/Jordan_Vogel_Resume.pdf" | relative_url }}) in PDF format.
 
 **Email:** [jv457@cornell.edu](mailto:jv457@cornell.edu) | | | **Phone:** 516 675 7711
 
@@ -20,7 +19,7 @@ Aspiring engineering student with a strong foundation in mechanical design. Pass
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 4.0/4.0 | Graduation: May, 2027
+  GPA: 4.0/4.0 | Graduation: Dec, 2026
 
 - **[Schechter School of Long Island]**  
   *High Schoool Diploma*
@@ -29,9 +28,9 @@ Aspiring engineering student with a strong foundation in mechanical design. Pass
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, Autodesk Inventor, Arduino
-- **Programming:** Java, MATLAB, Excel 
-- **Tools:** 3D Printing, Laser Cutting, Manual Machining
+- **Software:** Autodesk Fusion 360, Autodesk Inventor, Arduino IDE
+- **Programming:** Java, MATLAB, Excel, ROS, Python
+- **Tools:** 3D Printing, Laser Cutting, Laser Etching/Marking, Manual Machining
 
 ---
 
@@ -46,7 +45,6 @@ Aspiring engineering student with a strong foundation in mechanical design. Pass
   *Designed an autonomous robot to collect cubes as part of MAE 3780: Mechatronics*  
   - Used Arduino to control the movements of the robot
   - Placed in the top 16 out of 45 teams
-  - Key Achievement 2  
 
 - **HydroClip**:  
   *Designed a water bottle holder that mounts to the front of your backpack so it is more accessible*  
@@ -73,7 +71,7 @@ Aspiring engineering student with a strong foundation in mechanical design. Pass
 ---
 
 #### Extracurricular Activities
-- Steering Lead of Cornell Electric Vehicles
+- Mechanical Lead of Cornell Electric Vehicles
 - Member of Humor Us Sketch Comedy
 
 ---
