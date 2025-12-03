@@ -6,7 +6,8 @@ technologies: [Autodesk Inventor, Autodesk Vault, ANSYS Mechanical]
 image: assets/images/SteeringPlate.png
 ---
 
-<img src="assets/images/SteeringPlate.png" alt="Steering Plate" width="300">
+![photo of yeti]({{ "assets/images/SteeringPlate.png" | relative_url }})
+
 
 
 While simultaneously serving as mechanical lead, overseeing the design of our 2026 Urban Concept car, I took on a project of my own - the Steering Mounting Plate. While not a particularly exciting name, this project was crucial to the steering system. It provides a flat mounting surface for the rack and pinion, brake pedal, acceleration pedal, and autonomous driving hardware. 
