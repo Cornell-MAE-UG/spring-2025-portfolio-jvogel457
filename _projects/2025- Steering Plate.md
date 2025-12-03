@@ -3,7 +3,7 @@ layout: project
 title: Steering Plate
 description: Project Assignment on Cornell Electric Vehicles
 technologies: [Autodesk Inventor, Autodesk Vault, ANSYS Mechanical]
-image: assets/images/yeti_rendering.png
+image: assets/images/SteeringPlate.png
 ---
 
 ![photo of yeti]({{ "assets/images/SteeringPlate.png" | relative_url }})
