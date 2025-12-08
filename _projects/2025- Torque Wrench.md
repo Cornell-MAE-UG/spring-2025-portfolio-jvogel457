@@ -3,7 +3,7 @@ layout: project
 title: MAE 3270 Project
 description: Final Project for MAE 3270
 technologies: [MATLAB, ANSYS Mechanical]
-image: assets/images/torquewrench.jpg
+image: assets/images/torquewrench.png
 ---
 
 
