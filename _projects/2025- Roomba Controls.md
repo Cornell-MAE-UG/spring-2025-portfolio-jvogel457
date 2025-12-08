@@ -1,6 +1,6 @@
 ---
 layout: project
-title: System Dynamics Project
+title: MAE 3260 Project
 description: Final Project for MAE 3260
 technologies: [MATLAB]
 image: assets/images/roomba.jpg
