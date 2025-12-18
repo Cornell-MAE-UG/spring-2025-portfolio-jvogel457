@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 3230 Fluid Mechanical Dissection
+title: Weed Wacker
 description: Final Project for MAE 3230
 technologies: [iMovie, Fluid Mechanics]
 image: assets/images/fluids.png
