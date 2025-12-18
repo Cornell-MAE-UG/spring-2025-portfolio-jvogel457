@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 3270 Project
+title: Torque Wrench
 description: Final Project for MAE 3270
 technologies: [MATLAB, ANSYS Mechanical]
 image: assets/images/torquewrench.png

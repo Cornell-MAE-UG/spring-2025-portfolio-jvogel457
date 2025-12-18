@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 3260 Project
+title: Roomba Controls
 description: Final Project for MAE 3260
 technologies: [MATLAB]
 image: assets/images/roomba.jpg
