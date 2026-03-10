@@ -15,6 +15,6 @@ Homework assignment 5 was the most valuable assignment to me. In this assignment
 
 
 
-[Download my copy of Homework 5]({{ "assets/MAE 3240 HW5.pdf" | relative_url }}) in PDF format.
+[Download my copy of Homework 5]({{ "/assets/MAE 3240 HW5.pdf" | relative_url }}) in PDF format.
 
 
