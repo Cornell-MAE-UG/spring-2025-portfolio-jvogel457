@@ -161,17 +161,10 @@ footer {
 }
 
 .gallery-item img {
-  width: 100%;
-  
-  /* CHANGE THIS from 85% to auto */
-  height: auto; 
-  
-  /* Optional: If you want all images to have an identical aspect ratio box (like a square) */
-  /* aspect-ratio: 1 / 1; */ 
-  
-  display: block;
+width: 100%;
+  aspect-ratio: 1 / 1;
+  height: auto;
   object-fit: cover;
-  object-position: center;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -179,6 +172,7 @@ footer {
 .gallery-item p {
   margin: 13px 0;
   font-size: .9rem;
+  height: 45px;
   color: $text-color;
 }
 
