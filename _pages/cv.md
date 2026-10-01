@@ -29,13 +29,12 @@ Aspiring engineer with a strong foundation in mechanical design. Passionate abou
 ---
 
 #### Skills
-- **CAD:** Autodesk Inventor | Autodesk Fusion | Autodesk Vault | PTC Creo | DFM | DFA 
+- **CAD:** Autodesk Inventor | Autodesk Fusion | Autodesk Vault | PTC Creo | DFM/DFA
 - **Programming:** MATLAB | Java | Python | Arduino IDE | ROS
--	**Data Management/Automation:** Excel | Power BI | Power Automate | Power Apps | SharePoint List
-- **Software:** Autodesk Fusion, Autodesk Inventor, Autodesk Vault, Arduino IDE, ANSYS Mechanical, 
-- **Simulation:** Simulink, ANSYS Mechanical | Altair HyperMesh | Altair Optistruct | GENESIS
-- **Manufacturing:** 3D Printing | Manual Mill | Manual Lathe | TRAK lathe | CAM | Laser Cutting/Engraving
-- **Lab Equipment:** LabVIEW | Microscope
+- **Data Management/Automation:** Excel | Power BI | Power Automate | Power Apps | SharePoint
+- **Simulation:** Simulink | ANSYS Mechanical | Altair HyperMesh | Altair OptiStruct | GENESIS
+- **Manufacturing:** 3D Printing | Manual Mill | Manual Lathe | TRAK Lathe | CAM | Laser Cutting/Engraving
+- **Lab Equipment:** LabVIEW | Microscopy
 
 
 ---
