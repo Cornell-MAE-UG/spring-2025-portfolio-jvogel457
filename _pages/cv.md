@@ -48,31 +48,29 @@ Aspiring engineer with a strong foundation in mechanical design. Passionate abou
 ---
 #### Projects
 - **Coast By Wire**:  
-  *Researched a new drivetrain architecture where one-way bearings are replaced with an electromagnetic clutch and custom software, allowing CEV’s Urban Concept vehicle to both coast and drive in reverse*  
   Jan 2026 - May 2026
+  - Researched a new drivetrain architecture where one-way bearings are replaced with an electromagnetic clutch and custom software, allowing CEV’s Urban Concept vehicle to both coast and drive in reverse
   - Designed a benchtop rig in Autodesk Inventor and a Simulink model to test the system and its controls
   - Predicted changes in efficiency performance based added mass and increased power draw from the EM clutch
 
 - **MAE 3780 Cube Craze Robot**:  
-  *Designed an autonomous robot to collect cubes as part of MAE 3780: Mechatronics*  
   Jan 2025 - May 2025
+  - Designed an autonomous robot to collect cubes as part of MAE 3780: Mechatronics
   - Used Arduino to control the movements of the robot
   - Placed in the top 16 out of 45 teams
 
 - **HydroClip**:  
-  *Created a backpack mounted water bottle holder for easy access while walking*  
   Jan 2025 - May 2025
+  - Created a backpack mounted water bottle holder for easy access while walking  
   - Designed a buckle-like locking mechanism to secure the water bottle in place 
   - Split the buckle into parts, 3D printed, and glued pieces together to maximize strength in the direction of bending
 
 - **AutoSteer**:  
-  *Designed, manufactured, and tested a system designed to autonomouly steer Cornell Electric Vehicles' Urban Concept Car*  
   Jan 2024 - May 2024
+  - Designed, manufactured, and tested a system designed to autonomouly steer Cornell Electric Vehicles' Urban Concept Car  
   - Prototyped a 3D printed gearbox to translate motion of motor into motion of steering column
   - Integrating an electromagnetic clutch to serve as an override mechanism
   - Successfully tested mechanical systems by driving car with a remote controller
-
-x
 
 ---
 
